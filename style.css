@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+.top-container{
+    background-color: #efeff0;
+    padding-bottom: 1px;
+}
+.flex-container {
+     display: flex;
+      justify-content: center;
+   
+}
+
+.search{
+    width: 30%;
+}
+
+.button {
+    width: 30%;
+}
+
+
+
+.container1 {
+    background-color: #8eebc4;
+    margin: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+   
+}
+
+.container2 {
+    background-color: #5adbb0;
+    margin: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.container3 {
+    background-color: #21b998;
+    margin: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.bottom-container{
+    padding: 10px;
+    
+}
